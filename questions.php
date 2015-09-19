@@ -3,6 +3,7 @@
 <html>
 	<head>
 		<title></title>
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" />
 	</head>
 	<body>
 		<center>
